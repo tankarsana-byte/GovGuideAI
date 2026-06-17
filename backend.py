@@ -9,6 +9,10 @@ GOOGLE_API_KEY="GOOGLE_API_KEY"
 
 genai.configure(api_key=GOOGLE_API_KEY)
 
+import os
+
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+
 # ==========================================
 # LOAD DATASETS
 # ==========================================
