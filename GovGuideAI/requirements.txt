@@ -4,3 +4,7 @@ google-generativeai
 fuzzywuzzy
 python-Levenshtein
 tabulate
+streamlit
+streamlit-option-menu
+pandas
+google-generativeai
