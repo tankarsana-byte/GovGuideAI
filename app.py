@@ -28,7 +28,7 @@ st.markdown("""
 }
 
 [data-testid="stSidebar"] * {
-    color: white;
+    color: orange;
 }
 
 .big-title {
