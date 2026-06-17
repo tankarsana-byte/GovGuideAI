@@ -1,0 +1,6 @@
+streamlit
+pandas
+google-generativeai
+fuzzywuzzy
+python-Levenshtein
+tabulate
